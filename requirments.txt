@@ -1,0 +1,4 @@
+PySide6
+numpy
+mediapipe
+qimage2ndarray
